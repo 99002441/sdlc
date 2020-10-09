@@ -5,3 +5,5 @@
 ![cppcheck-action](https://github.com/99002441/sdlc/workflows/cppcheck-action/badge.svg?branch=main)
 
 ![Valgrind](https://github.com/99002441/sdlc/workflows/Valgrind/badge.svg)
+
+![C/C++ CI](https://github.com/99002441/sdlc/workflows/C/C++%20CI/badge.svg?branch=main)
