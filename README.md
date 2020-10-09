@@ -7,3 +7,5 @@
 ![Valgrind](https://github.com/99002441/sdlc/workflows/Valgrind/badge.svg)
 
 ![C/C++ CI](https://github.com/99002441/sdlc/workflows/C/C++%20CI/badge.svg?branch=main)
+
+![Unit testing](https://github.com/99002441/sdlc/workflows/Unit%20testing/badge.svg?branch=main)
